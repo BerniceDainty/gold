@@ -1,0 +1,21 @@
+body {
+    display: block;
+    margin: 0px;
+}
+p {
+    margin: 0px;
+}
+.head-text {
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+    padding: 10px;
+    color: #156e6e;
+    font-weight: 600;
+}
+.main-content {
+    background-image: url("../assets/boat.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
